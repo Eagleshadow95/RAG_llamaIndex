@@ -1,2 +1,2 @@
 # RAG_llamaIndex
-Building Efficient RAG model for different use case
+Building efficient RAG model for various use cases.
